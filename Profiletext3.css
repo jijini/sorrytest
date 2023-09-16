@@ -1,0 +1,41 @@
+body {
+  max-width:70%;
+  margin: auto !important;
+}
+
+
+h1 {
+  font-size: 35px;
+}
+h2 {
+  font-size: 20px;
+}
+
+
+.info{
+  width: 80%;
+  height: 100%;
+  background-color: white;
+  /* border-radius: 10%; */
+  /* border-right: 1.5px solid;
+  border-left:1.5px solid ; */
+  text-align: center;
+  margin-top: 5rem;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(249, 250, 250);
+}
+
+
+img {
+  border-radius: 50%;
+  margin-bottom: 5rem;
+}
+
+
+.content{
+  font-size: 18px;
+  text-align: center;
+  
+}
+

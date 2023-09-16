@@ -1,0 +1,14 @@
+body {
+  max-width:70%;
+  margin: auto !important;
+}
+
+h2{
+  /* max-width: 70%; */
+  margin: auto;
+}
+
+.profilebody{
+  margin: 100px;
+}
+
